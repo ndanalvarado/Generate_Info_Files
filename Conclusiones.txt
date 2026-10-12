@@ -1,0 +1,29 @@
+CONCLUSIONES DEL PROYECTO
+
+Generación y clasificación de datos
+
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo de este proyecto aprendimos a aplicar conceptos fundamentales de programación en Java, especialmente el manejo de clases, métodos, arreglos, estructuras de datos, archivos planos y lectura y escritura de información.
+
+También aprendimos a generar datos de prueba de manera automática y posteriormente procesarlos para obtener información organizada. El proyecto permitió comprender mejor cómo separar responsabilidades entre diferentes clases y cómo construir un flujo completo desde la generación de archivos hasta la creación de reportes.
+
+Otro aprendizaje importante fue trabajar con archivos CSV, recorrer la información almacenada, realizar cálculos, ordenar resultados y generar nuevos archivos con los resultados obtenidos.
+
+2. Posibles aplicaciones profesionales de los conocimientos adquiridos
+
+Los conocimientos adquiridos pueden aplicarse en diferentes situaciones profesionales donde sea necesario procesar y organizar información de manera automática.
+
+Por ejemplo, este tipo de programación puede utilizarse para procesar archivos de ventas, generar reportes comerciales, clasificar productos, consolidar información de vendedores o automatizar tareas que normalmente se realizan de forma manual.
+
+También puede servir como base para proyectos más avanzados relacionados con bases de datos, sistemas de información, análisis de datos y automatización de procesos empresariales.
+
+3. Dificultades presentadas durante el desarrollo del proyecto
+
+Una de las principales dificultades fue comprender cómo debía estructurarse el proyecto para que los archivos generados por una clase pudieran ser utilizados posteriormente por la segunda clase.
+
+También fue necesario revisar la forma correcta de leer los archivos CSV, identificar cada vendedor y producto, acumular las cantidades vendidas y calcular el dinero recaudado.
+
+Otra dificultad fue ordenar correctamente los resultados antes de generar los reportes finales y verificar que el programa funcionara sin solicitar información al usuario.
+
+Finalmente, fue necesario realizar varias pruebas y ajustes para asegurar que los archivos se generaran correctamente, que los datos fueran procesados en el orden esperado y que el proyecto mantuviera compatibilidad con Java 8.
